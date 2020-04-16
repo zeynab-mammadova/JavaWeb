@@ -1,8 +1,9 @@
+html,
 body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: url(mii.jpg) no-repeat;
+    background: url(templates/mii.jpg) no-repeat;
     background-size: cover;
 }
 .login-box{
